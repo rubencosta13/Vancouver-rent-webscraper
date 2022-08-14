@@ -1,10 +1,9 @@
 import puppeteer from 'puppeteer';
 import data from './utils/data.json';
-import { Scrapper } from './app';
 
 const start = async () => {
   console.log("starting");
-  // await Scrapper.login('https://www.facebook.com/marketplace/vancouver/1-bedroom-apartments/?exact=false')
+  // await scraper.login('https://www.facebook.com/marketplace/vancouver/1-bedroom-apartments/?exact=false')
   const browser = await puppeteer.launch({
     headless: false,
     args:[

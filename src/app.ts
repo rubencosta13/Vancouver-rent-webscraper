@@ -1,7 +1,7 @@
 import puppeteer, { Browser, Puppeteer } from "puppeteer";
 
 
-class Scrapper {
+class scraper {
   public client: any;
   constructor() {
     this.client = null;
@@ -15,6 +15,6 @@ class Scrapper {
   }
 }
 
-const scrapper = new Scrapper();
+const scraper = new scraper();
 
-export { scrapper as Scrapper }
+export { scraper as scraper }

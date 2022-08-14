@@ -1,4 +1,4 @@
-<h1 align="center">Facebook Marketplace Scrapper</h1>
+<h1 align="center">Facebook Marketplace scraper</h1>
 <p>This project was originally intended to scrape listings in Facebook Marketplace to find the average rental pricining in Vancouver, BC</p>
 <center>
 <p align="center">
@@ -8,7 +8,7 @@
 </center>
 
 # Table of Contents
-- [Facebook Marketplace Scrapper](https://github.com/rubencosta13/Vancouver-rent-webscrapper)
+- [Facebook Marketplace scraper](https://github.com/rubencosta13/Vancouver-rent-webscraper)
     - [Project Explanation](#about-this-project)
     - [Project Status](#project-status)
     - [Configurations](#how-to-set-up-this-utility)
@@ -26,13 +26,13 @@ I was looking for a way to extract listings from [Facebook Marketplace's listing
 
 # Project Status
 Todo: <br />
-  Add Docker and Start the scrapper as Headless
+  Add Docker and Start the scraper as Headless
 
 
 # How to Set Up this utility
 ```bash
 $ npm install # This installs all project's dependencies
-$ npm start   # This starts the scrapper
+$ npm start   # This starts the scraper
 ```
 Using npm start is going to start scrapping the webpage, a chromium window should pop up, in newer versions the process will be totally headless
 
@@ -42,6 +42,6 @@ Using npm start is going to start scrapping the webpage, a chromium window shoul
 
 # Help
 
-If you need any help send me an [email](mailto:rubenlavoscosta@gmail.com). Use the following subject: "Facebook Marketplace webscrapper"
+If you need any help send me an [email](mailto:rubenlavoscosta@gmail.com). Use the following subject: "Facebook Marketplace webscraper"
 
 Made with <3 by Ruben Costa
