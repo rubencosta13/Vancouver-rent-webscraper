@@ -30,12 +30,12 @@ Todo: <br />
 
 
 # How to Set Up this utility
-
+```bash
 $ npm install # This installs all project's dependencies
 $ npm start   # This starts the scrapper
 ```
-    Using npm start is going to start scrapping the webpage, a chromium window should pop up, in newer versions the process will be totally headless
-```
+Using npm start is going to start scrapping the webpage, a chromium window should pop up, in newer versions the process will be totally headless
+
 
 # Technologies Used
 - [Puppetteer](https://github.com/puppeteer/puppeteer)
