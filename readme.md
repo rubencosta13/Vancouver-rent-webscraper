@@ -42,6 +42,6 @@ Using npm start is going to start scrapping the webpage, a chromium window shoul
 
 # Help
 
-If you need any help send me an [email](mailto:rubenlavoscosta@gmail.com). Use the subject as: "Express Entry Scrapper"
+If you need any help send me an [email](mailto:rubenlavoscosta@gmail.com). Use the following subject: "Facebook Marketplace webscrapper"
 
 Made with <3 by Ruben Costa
