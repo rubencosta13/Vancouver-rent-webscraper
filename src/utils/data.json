@@ -1,0 +1,11 @@
+{
+  "XPATHS": {
+    "COOKIES": "/html/body/div[3]/div[2]/div/div/div/div/div[3]/button[2]"
+  },
+  "SELECTORS": {
+    "RADIUS": "#seo_filters > div.oajrlxb2.gs1a9yip.g5ia77u1.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.mg4g778l.pfnyh3mw.p7hjln8o.cxmmr5t8.oygrvhab.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.n00je7tq.arfg74bv.qs9ysxi8.k77z8yql.btwxx1t3.abiwlrkh.p8dawk7l.j83agx80.lzcic4wl.aov4n071 > div.j83agx80.taijpn5t.cxgpxx05.dflh9lhu.sj5x9vvc.scb9dxdr",
+    "COOKIES": "body > div.__fb-light-mode.l9j0dhe7.tkr6xdv7 > div.rq0escxv.l9j0dhe7.du4w35lb > div > div.iqfcb0g7.tojvnm2t.a6sixzi8.k5wvi7nf.q3lfd5jv.pk4s997a.bipmatt0.cebpdrjk.qowsmv63.owwhemhu.dp1hu0rb.dhp61c6y.l9j0dhe7.iyyx5f41.a8s20v7p > div > div > div > div.opwvks06.ihqw7lf3.hv4rvrfc.dati1w0a > div > div:nth-child(2)",
+    "RADIUS_SELECTOR": "#jsc_c_77 > div"
+  },
+  "USERAGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+}
